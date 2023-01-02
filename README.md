@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [my new website](https://github.com/JimCShields/RippleCreekCreative.com)
 
-- 🌱 I’m currently learning **Java, JHipster, DevOps**
+- 🌱 I’m currently learning **Java, Spring, DevOps**
 
 - 👯 I’m looking to collaborate on **Tools for Creatives**
 
