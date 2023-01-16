@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋<br>I'm Jim Shields</h1>
 <h3 align="center">Fullstack software engineer in Austin, Texas</h3>
 
-- 🔭 I’m currently working on [my new website](https://github.com/JimCShields/RippleCreekCreative.com)
+- 🔭 I’m currently working on a project I've had in the back of my mind for years now.
 
 - 🌱 I’m currently learning **Java, Spring, Material**
 
