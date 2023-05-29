@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on a project I've had in the back of my mind for years now.
 
-- 🌱 I’m currently learning **Java, Spring, Material**
+- 🌱 I’m currently learning **Java, Spring, Bootstrap**
 
 - 👯 I’m looking to collaborate on **Tools for Creatives**
 
